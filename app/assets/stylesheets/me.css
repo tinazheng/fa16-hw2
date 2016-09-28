@@ -1,0 +1,27 @@
+.bg-green {
+	background-color: green;
+}
+
+.text-white {
+	color: white;
+}
+
+.text-purple {
+	color: purple;
+}
+
+.text-red {
+	color: red;
+}
+
+.text-bold {
+	text-decoration: bold;
+}
+
+.text-underline {
+	text-decoration: underline;
+}
+
+.width-sm {
+	width: 100px;
+}
